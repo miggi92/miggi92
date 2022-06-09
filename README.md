@@ -13,7 +13,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miggi92&theme=dark" alt="miggi92" /></p>
 <h3 align="left">Languages and Tools:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miggi92&show_icons=true&theme=dracula&locale=en&layout=compact" alt="miggi92" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=miggi92&show_icons=true&theme=dracula&locale=en&layout=compact" alt="miggi92" /></p>
 <br /><br />
 
 <h4 align="left">Programming languages:</h4>
@@ -92,3 +92,7 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
+
+
+------
+Generated via: https://rahuldkjain.github.io/gh-profile-readme-generator/
