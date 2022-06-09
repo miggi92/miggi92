@@ -14,7 +14,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miggi92&theme=dark" alt="miggi92" /></p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=miggi92&show_icons=true&theme=dracula&locale=en&layout=compact" alt="miggi92" /></p>
-<br /><br />
 
 <h4 align="left">Programming languages:</h4>
 <p align="left"> 
@@ -65,10 +64,6 @@
 <h4 align="left">Backend as a Service (BaaS):</h4>
 <p align="left"> 
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-</p>
-
-<h4 align="left">Framework:</h4>
-<p align="left"> 
 </p>
 
 <h4 align="left">Testing:</h4>
