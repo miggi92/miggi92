@@ -8,10 +8,12 @@
 <a href="https://linkedin.com/in/miguel-g-9a76ba149" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="blubb" height="30" width="40" /></a>
 </p>
 
+------
 <h3 align="left">Stats:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miggi92&show_icons=true&theme=dracula&locale=en" alt="miggi92" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miggi92&theme=dark" alt="miggi92" /></p>
+
+------
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=miggi92&show_icons=true&theme=dracula&locale=en&layout=compact" alt="miggi92" /></p>
 
