@@ -15,7 +15,7 @@
 
 ------
 <h3 align="left">Languages and Tools:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miggi92&show_icons=true&theme=dracula&locale=en&layout=compact" alt="miggi92" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=miggi92&show_icons=true&theme=dracula&locale=en&layout=compact" alt="miggi92" /></p>
 
 <h4 align="left">Programming languages:</h4>
 <p align="left"> 
