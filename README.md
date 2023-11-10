@@ -18,3 +18,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miggi92&show_icons=true&locale=en" alt="miggi92" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miggi92&" alt="miggi92" /></p>
+
+
+Generated with: [https://rahuldkjain.github.io/gh-profile-readme-generator/](https://rahuldkjain.github.io/gh-profile-readme-generator/)
