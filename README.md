@@ -31,22 +31,35 @@
 </div>
 
 <h2 align="center" class="section-heading">💻 Programming Languages</h2>
-<p> As a multifaceted engineer, I've developed proficiency in a diverse set of programming languages, each serving as a pivotal tool in my development arsenal. Here are the languages I wield to turn complex problems into elegant solutions</p>
+<p></p>
 <div align="center">
-    <img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,ts,html,css,md&perline=10"  />
+    <img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,ts,html,css,md,cs,dart,vue&perline=10"  />
 </div>
 
 <h2 align="center" class="section-heading">☁️ Cloud Technologies</h2>
-<p>In the dynamic realm of cloud computing, I am proficient in leveraging leading cloud platforms and technologies to architect, deploy, and manage scalable, highly available, and fault-tolerant systems. Here's a glance at the cloud technologies I specialize in:</p>
+<p></p>
 <div align="center">
-  <img width="500px"  src="https://skillicons.dev/icons?i=express,mongo,docker,aws,supabase&perline=10"  />
+  <img width="500px"  src="https://skillicons.dev/icons?i=express,mongo,docker,aws,supabase,gcp,cloudflare&perline=10"  />
+</div>
+
+<h2 align="center" class="section-heading">🔧 Frameworks</h2>
+<p></p>
+<div align="center">
+  <img width="500px"  src="https://skillicons.dev/icons?i=angular,bootstrap,flutter,nuxtjs,p5js,tailwind&perline=10"  />
+</div>
+
+<h2 align="center" class="section-heading">💻 Operating Systems</h2>
+<p></p>
+<div align="center">
+  <img width="500px"  src="https://skillicons.dev/icons?i=linux,kali,raspberrypi,ubuntu,windows,debian&perline=10"  />
 </div>
 
 <h2 align="center" class="section-heading">🔧 Tools</h2>
 <p></p>
 <div align="center">
-  <img width="500px"  src="https://skillicons.dev/icons?i=nodejs,git,vscode,postman&perline=10"  />
+  <img width="500px"  src="https://skillicons.dev/icons?i=nodejs,git,bitbucket,vscode,postman,eclipse,npm,pnpm,jenkins,androidstudio&perline=10"  />
 </div>
+
 
 <div align="center">
 <h2 align="center" class="section-heading"> 💻 Github Stats</h2>
