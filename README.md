@@ -23,11 +23,9 @@
 <img src="https://komarev.com/ghpvc/?username=miggi92&style=for-the-badge" alt="Profile views" />
 </div>
 
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
-  <h2>🚀 Github Commits</h2>
-    <p>This section highlights my daily activity, showcasing the repositories I am currently working on. Each commit represents progress or fixes to ongoing projects, reflecting my commitment to continuous improvement and collaborative development. Dive into the commit messages for insights into what I've been up to!</p>
-  <img src="https://raw.githubusercontent.com/miggi92/miggi92/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
-  <img src="https://raw.githubusercontent.com/miggi92/miggi92/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=miggi92&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
 </div>
 
 <h2 align="center" class="section-heading">💻 Programming Languages</h2>
@@ -59,6 +57,16 @@
 <div align="center">
   <img width="500px"  src="https://skillicons.dev/icons?i=nodejs,git,bitbucket,vscode,postman,eclipse,npm,pnpm,jenkins,androidstudio&perline=10"  />
 </div>
+
+
+<!--Trophies Section-->   
+<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+<p align="center">
+  <a href="https://github.com/miggi92/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=miggi92&row=2&column=6&margin-w=20&margin-h=20&theme=dracula" alt="GitHub Trophies">
+  </a>
+</p>
+<br />
 
 
 <div align="center">
