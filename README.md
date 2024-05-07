@@ -74,17 +74,17 @@
 <p>Peek into my GitHub stats to see how I juggle code, coffee, and collaborations! Dive in to check out the milestones of my digital journey!</p>
  <table align="center" width="100%" height="100%" >
     <tr>
-       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miggi92&theme=github_dark" alt="Miguel's GitHub Stats"/></td>   
-       <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=miggi92&theme=merko" alt="Miguel's Contribution Streak"/></td>
+       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miggi92&theme=nightowl" alt="Miguel's GitHub Stats"/></td>   
+       <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=miggi92&theme=nightowl" alt="Miguel's Contribution Streak"/></td>
     </tr>
  </table>
 
  <table align="center" width="100%" height="100%" >
     <tr>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=miggi92&theme=github_dark" alt="Miguel's GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=miggi92&theme=github_dark&utcOffset=10" alt="Miguel's GitHub Stats"/>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miggi92&theme=github_dark" alt="Miguel's GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=miggi92&theme=github_dark" alt="Miguel's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=miggi92&theme=nightowl" alt="Miguel's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=miggi92&theme=nightowl&utcOffset=10" alt="Miguel's GitHub Stats"/>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miggi92&theme=nightowl" alt="Miguel's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=miggi92&theme=nightowl" alt="Miguel's GitHub Stats"/></td>
     </tr>
  </table>
 </div>
