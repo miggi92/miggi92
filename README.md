@@ -59,7 +59,7 @@
 <h2 align="center" class="section-heading">🔧 Tools</h2>
 <p></p>
 <div align="center">
-  <img width="500px"  src="https://skillicons.dev/icons?i=nodejs,git,bitbucket,vscode,postman,eclipse,npm,pnpm,jenkins,androidstudio&perline=10"  />
+  <img width="500px"  src="https://skillicons.dev/icons?i=nodejs,git,bitbucket,vscode,postman,eclipse,npm,pnpm,bun,jenkins,androidstudio&perline=10"  />
 </div>
 
 
